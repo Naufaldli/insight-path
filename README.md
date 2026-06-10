@@ -53,15 +53,15 @@ State management menggunakan `Provider` dan `ChangeNotifier` untuk memastikan si
 
 2. Masuk ke direktori proyek:
 
-Bash
+```Bash
 cd insight-path
 
 3. Unduh semua dependensi package Dart:
 
-Bash
+```Bash
 flutter pub get
 
 4. Jalankan aplikasi pada emulator atau perangkat fisik Anda:
 
-Bash
+```Bash
 flutter run
