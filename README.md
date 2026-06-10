@@ -50,13 +50,16 @@ State management menggunakan `Provider` dan `ChangeNotifier` untuk memastikan si
 1. Clone repositori ini ke komputer Anda:
    ```bash
    git clone [https://github.com/Naufaldli/insight-path.git](https://github.com/Naufaldli/insight-path.git)
-Masuk ke direktori proyek:
 
 2. Masuk ke direktori proyek:
-   cd insight-path
 
+Bash
+cd insight-path
 3. Unduh semua dependensi package Dart:
-   flutter pub get
-   
+
+Bash
+flutter pub get
 4. Jalankan aplikasi pada emulator atau perangkat fisik Anda:
-    flutter run
+
+Bash
+flutter run
