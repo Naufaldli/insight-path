@@ -55,10 +55,12 @@ State management menggunakan `Provider` dan `ChangeNotifier` untuk memastikan si
 
 Bash
 cd insight-path
+
 3. Unduh semua dependensi package Dart:
 
 Bash
 flutter pub get
+
 4. Jalankan aplikasi pada emulator atau perangkat fisik Anda:
 
 Bash
